@@ -1,3 +1,6 @@
+> 📄 Este README está em **português**.  
+> 🇺🇸 [Click here for the English version.](README_EN.md)
+
 # Olá! Eu sou André Rizzo
 
 **Cientista de Dados Sênior** com +20 anos de experiência em Tecnologia da Informação  
