@@ -3,7 +3,7 @@
 **Senior Data Scientist** with 20+ years of experience in Information Technology  
 Background in Statistics with an MBA in Artificial Intelligence and Big Data (USP)  
 Focused on Machine Learning, Deep Learning, Big Data, and Applied Statistics  
-Rio de Janeiro, Brazil | 📬 andrerizzo@gmail.com
+Rio de Janeiro, Brazil | 📬 andrerizzo@hotmail.com
 
 ---
 
@@ -35,7 +35,7 @@ Rio de Janeiro, Brazil | 📬 andrerizzo@gmail.com
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrerizzo)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrerizzo1)  
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?logo=github&logoColor=white)](https://github.com/andrerizzo)
 
 ---
