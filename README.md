@@ -6,7 +6,7 @@
 **Cientista de Dados Sênior** com +20 anos de experiência em Tecnologia da Informação  
 Estatístico de formação, com MBA em Inteligência Artificial e Big Data pela USP  
 Foco em Machine Learning, Deep Learning, Big Data e Estatística Aplicada  
-Rio de Janeiro, Brasil | 📬 andrerizzo@gmail.com
+Rio de Janeiro, Brasil | 📬 andrerizzo@hotmail.com
 
 ---
 
