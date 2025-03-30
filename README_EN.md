@@ -28,8 +28,8 @@ Rio de Janeiro, Brazil | 📬 andrerizzo@hotmail.com
 
 🔹 [Quality Control using CNNs](https://github.com/andrerizzo/CNN_para_Controle_de_Qualidade)  
 🔹 [Heart Failure Prediction](https://github.com/andrerizzo/Heart_Failure_Prediction_ML)  
-🔹 [Machine Learning Classification](https://github.com/andrerizzo/Classificacao_com_ML)  
-🔹 [CNN Deep Dive](https://github.com/andrerizzo/CNN_Deep_Dive)
+🔹 [Sales Forecast](https://github.com/andrerizzo/Sales_Prediction)  
+🔹 [Convolutional Neural Networks (CNN) Deep Dive](https://github.com/andrerizzo/Convolutional_Neural_Network_Deep_Dive)
 
 ---
 
@@ -41,4 +41,6 @@ Rio de Janeiro, Brazil | 📬 andrerizzo@hotmail.com
 ---
 
 Currently seeking opportunities as a **Senior Data Scientist** (remote or hybrid).  
-Open to challenges involving AI, Machine Learning, Applied Statistics, and Data Engineering.
+Open to challenges involving AI, Machine Learning, Applied Statistics, and Data Engineering.  
+
+*Last update 03/19/2025*

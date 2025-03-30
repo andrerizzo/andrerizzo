@@ -1,5 +1,5 @@
-> 📄 Este README está em **português**.  
-> 🇺🇸 [Click here for the English version.](README_EN.md)
+ br Este README está em **português**.  
+ 🇺🇸 [Click here for the English version.](README_EN.md)
 
 # Olá! Eu sou André Rizzo
 
@@ -44,4 +44,7 @@ Rio de Janeiro, Brasil | 📬 andrerizzo@hotmail.com
 ---
 
 Atualmente em busca de oportunidades como **Cientista de Dados Sênior** (remoto ou híbrido).  
-Aberto a desafios com foco em IA, ML, análise estatística e engenharia de dados.
+Aberto a desafios com foco em IA, ML, análise estatística e engenharia de dados.  
+
+
+*Última atualização 29/03/2025*
