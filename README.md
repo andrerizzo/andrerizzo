@@ -45,7 +45,4 @@
 
 ---
 
-🎯 Em busca de oportunidades como **Cientista de Dados Sênior**, preferencialmente remoto.  
-Aberto a desafios com foco em IA aplicada, NLP, Engenharia de Modelos e soluções em produção.
-
 *Última atualização: 21/05/2025*

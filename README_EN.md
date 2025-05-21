@@ -45,7 +45,4 @@
 
 ---
 
-🎯 Currently seeking new opportunities as a **Senior Data Scientist**, preferably remote.  
-Open to challenges involving applied AI, NLP, model engineering, and production-grade solutions.
-
 *Last updated: 2025-05-21*
