@@ -30,7 +30,7 @@
 
 ## 🚀 Projetos em Destaque
 
-🔹 [Chatbot Jurídico com RAG e OpenAI](https://github.com/andrerizzo/lgpd-rag-chatbot)
+🔹 [Chatbot Jurídico com RAG e OpenAI](https://github.com/andrerizzo/lgpd-rag-chatbot)  
 🔹 [Controle de Qualidade com CNNs (Tomates)](https://github.com/andrerizzo/CNN_para_Controle_de_Qualidade)  
 🔹 [Predição de Falha Cardíaca com ML](https://github.com/andrerizzo/Heart_Failure_Prediction_ML)  
 🔹 [Reconhecimento de Espécies de Madeira com MobileNet](https://github.com/andrerizzo/Wood_Species_Classification)  
